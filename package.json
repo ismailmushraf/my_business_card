@@ -2,6 +2,7 @@
   "name": "business-card",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ismailmushraf.github.io/my_business_card/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.4",
@@ -36,6 +37,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^3.2.3",
     "react-router-dom": "^6.2.2"
   }
 }
