@@ -8,11 +8,6 @@ body {
   font-family: "Inter", sans-serif;
 }
 
-.contact {
-  border-radius: 10px;
-  padding: 16px 8px;
-}
-
 .container {
   background: #1a1b21;
   width: 300px;
@@ -97,7 +92,7 @@ main {
   font-size: 12px;
   letter-spacing: 1.2px;
   font-weight: 600;
-  line-height: 13px;
+  line-height: 18px;
 }
 
 footer {
